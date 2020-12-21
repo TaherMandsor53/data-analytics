@@ -7,7 +7,7 @@ class Home extends React.Component {
 	}
 
 	render() {
-		return <div>Home Component</div>;
+		return <div className="chart-comp">Home Component</div>;
 	}
 }
 

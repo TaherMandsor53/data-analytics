@@ -1,10 +1,10 @@
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import { requestChartDetails } from '../actions/action';
+import { requestChartDetails } from '../actions/actions';
 import Home from '../component/Home';
 
 const mapStateToProps = state => ({
-	chartDetailsData: state.userDetails.userDetailsData.data,
+	chartDetailsData: state.chartDetails.chartDetailsData.data,
 });
 const mapDispatchToProps = dispatch =>
 	bindActionCreators(
