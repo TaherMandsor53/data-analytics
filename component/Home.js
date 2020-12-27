@@ -16,7 +16,7 @@ class Home extends React.Component {
 			},
 			{
 				menuItem: 'Chart Details',
-				render: () => <h1>Chart Details</h1>,
+				render: () => <h4>Chart Details</h4>,
 			},
 		];
 
