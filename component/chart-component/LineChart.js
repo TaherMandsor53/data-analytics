@@ -13,7 +13,6 @@ class LineChart extends React.Component {
 
 	renderLineChart = () => {
 		const { data, figureId } = this.props;
-		console.log('Data:', data);
 		Highcharts.chart(figureId, {
 			chart: {
 				type: 'line',

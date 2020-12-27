@@ -22,7 +22,29 @@ const lineChartDataTransform = data => {
 	};
 };
 
+export const convertDateIntoTimeStamp = dateVal => {
+	let dateParts = dateVal.split('-');
+	var newDate = new Date(dateParts[2], dateParts[1] - 1, dateParts[0]);
+	let timeStamp = newDate.getTime();
+	return timeStamp;
+};
+
+const areaChartDataTransform = data => {
+	return (
+		data &&
+		data.map((_, index) => {
+			let timeStampVal = convertDateIntoTimeStamp(_.perDate);
+			return {
+				name: 'Product' + index,
+				x: index,
+				y: parseFloat(_.performanceValue),
+			};
+		})
+	);
+};
+
 export default {
 	pieChartDataTransform,
 	lineChartDataTransform,
+	areaChartDataTransform,
 };
