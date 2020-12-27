@@ -15,7 +15,6 @@ class PieChart extends React.Component {
 
 	renderPieChart = () => {
 		const { data, figureId } = this.props;
-		console.log('Data in chart comp:', data);
 		Highcharts.chart(figureId, {
 			chart: {
 				type: 'variablepie',

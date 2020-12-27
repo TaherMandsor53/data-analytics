@@ -1,253 +1,253 @@
 {
 	"performanceChartData": [
 		{
-			"perDate": "2015-12-23 00:00:00.0",
+			"perDate": "2015-12-23",
 			"performanceValue": "100.00"
 		},
 		{
-			"perDate": "2015-12-31 00:00:00.0",
+			"perDate": "2015-12-31",
 			"performanceValue": "100.16"
 		},
 		{
-			"perDate": "2016-01-29 00:00:00.0",
+			"perDate": "2016-01-29",
 			"performanceValue": "96.21"
 		},
 		{
-			"perDate": "2016-02-29 00:00:00.0",
+			"perDate": "2016-02-29",
 			"performanceValue": "97.53"
 		},
 		{
-			"perDate": "2016-03-31 00:00:00.0",
+			"perDate": "2016-03-31",
 			"performanceValue": "104.48"
 		},
 		{
-			"perDate": "2016-04-29 00:00:00.0",
+			"perDate": "2016-04-29",
 
 			"performanceValue": "107.71"
 		},
 		{
-			"perDate": "2016-05-31 00:00:00.0",
+			"perDate": "2016-05-31",
 
 			"performanceValue": "106.15"
 		},
 		{
-			"perDate": "2016-06-30 00:00:00.0",
+			"perDate": "2016-06-30",
 			"performanceValue": "104.69"
 		},
 		{
-			"perDate": "2016-07-29 00:00:00.0",
+			"perDate": "2016-07-29",
 			"performanceValue": "109.02"
 		},
 		{
-			"perDate": "2016-08-31 00:00:00.0",
+			"perDate": "2016-08-31",
 			"performanceValue": "109.89"
 		},
 		{
-			"perDate": "2016-09-30 00:00:00.0",
+			"perDate": "2016-09-30",
 			"performanceValue": "111.46"
 		},
 		{
-			"perDate": "2016-10-28 00:00:00.0",
+			"perDate": "2016-10-28",
 			"performanceValue": "108.69"
 		},
 		{
-			"perDate": "2016-11-30 00:00:00.0",
+			"perDate": "2016-11-30",
 			"performanceValue": "109.46"
 		},
 		{
-			"perDate": "2016-12-30 00:00:00.0",
+			"perDate": "2016-12-30",
 			"performanceValue": "112.45"
 		},
 		{
-			"perDate": "2017-01-31 00:00:00.0",
+			"perDate": "2017-01-31",
 			"performanceValue": "115.35"
 		},
 		{
-			"perDate": "2017-02-28 00:00:00.0",
+			"perDate": "2017-02-28",
 			"performanceValue": "116.35"
 		},
 		{
-			"perDate": "2017-03-31 00:00:00.0",
+			"perDate": "2017-03-31",
 			"performanceValue": "118.18"
 		},
 		{
-			"perDate": "2017-04-28 00:00:00.0",
+			"perDate": "2017-04-28",
 			"performanceValue": "119.65"
 		},
 		{
-			"perDate": "2017-05-31 00:00:00.0",
+			"perDate": "2017-05-31",
 			"performanceValue": "122.01"
 		},
 		{
-			"perDate": "2017-06-30 00:00:00.0",
+			"perDate": "2017-06-30",
 			"performanceValue": "122.82"
 		},
 		{
-			"perDate": "2017-07-31 00:00:00.0",
+			"perDate": "2017-07-31",
 			"performanceValue": "126.10"
 		},
 		{
-			"perDate": "2017-08-31 00:00:00.0",
+			"perDate": "2017-08-31",
 			"performanceValue": "124.91"
 		},
 		{
-			"perDate": "2017-09-29 00:00:00.0",
+			"perDate": "2017-09-29",
 			"performanceValue": "128.05"
 		},
 		{
-			"perDate": "2017-10-31 00:00:00.0",
+			"perDate": "2017-10-31",
 			"performanceValue": "127.77"
 		},
 		{
-			"perDate": "2017-11-30 00:00:00.0",
+			"perDate": "2017-11-30",
 			"performanceValue": "129.26"
 		},
 		{
-			"perDate": "2017-12-29 00:00:00.0",
+			"perDate": "2017-12-29",
 			"performanceValue": "132.82"
 		},
 		{
-			"perDate": "2018-01-31 00:00:00.0",
+			"perDate": "2018-01-31",
 			"performanceValue": "139.31"
 		},
 		{
-			"perDate": "2018-02-28 00:00:00.0",
+			"perDate": "2018-02-28",
 			"performanceValue": "131.22"
 		},
 		{
-			"perDate": "2018-03-29 00:00:00.0",
+			"perDate": "2018-03-29",
 			"performanceValue": "129.11"
 		},
 		{
-			"perDate": "2018-04-30 00:00:00.0",
+			"perDate": "2018-04-30",
 			"performanceValue": "132.94"
 		},
 		{
-			"perDate": "2018-05-31 00:00:00.0",
+			"perDate": "2018-05-31",
 			"performanceValue": "128.74"
 		},
 		{
-			"perDate": "2018-06-29 00:00:00.0",
+			"perDate": "2018-06-29",
 			"performanceValue": "127.77"
 		},
 		{
-			"perDate": "2018-07-31 00:00:00.0",
+			"perDate": "2018-07-31",
 			"performanceValue": "131.56"
 		},
 		{
-			"perDate": "2018-08-31 00:00:00.0",
+			"perDate": "2018-08-31",
 			"performanceValue": "130.04"
 		},
 		{
-			"perDate": "2018-09-28 00:00:00.0",
+			"perDate": "2018-09-28",
 			"performanceValue": "131.38"
 		},
 		{
-			"perDate": "2018-10-31 00:00:00.0",
+			"perDate": "2018-10-31",
 			"performanceValue": "123.43"
 		},
 		{
-			"perDate": "2018-11-30 00:00:00.0",
+			"perDate": "2018-11-30",
 			"performanceValue": "124.01"
 		},
 		{
-			"perDate": "2018-12-31 00:00:00.0",
+			"perDate": "2018-12-31",
 			"performanceValue": "116.27"
 		},
 		{
-			"perDate": "2019-01-31 00:00:00.0",
+			"perDate": "2019-01-31",
 			"performanceValue": "124.59"
 		},
 		{
-			"perDate": "2019-02-28 00:00:00.0",
+			"perDate": "2019-02-28",
 			"performanceValue": "126.68"
 		},
 		{
-			"perDate": "2019-03-29 00:00:00.0",
+			"perDate": "2019-03-29",
 			"performanceValue": "124.60"
 		},
 		{
-			"perDate": "2019-04-30 00:00:00.0",
+			"perDate": "2019-04-30",
 			"performanceValue": "128.57"
 		},
 		{
-			"perDate": "2019-05-31 00:00:00.0",
+			"perDate": "2019-05-31",
 			"performanceValue": "121.25"
 		},
 		{
-			"perDate": "2019-06-28 00:00:00.0",
+			"perDate": "2019-06-28",
 			"performanceValue": "126.70"
 		},
 		{
-			"perDate": "2019-07-31 00:00:00.0",
+			"perDate": "2019-07-31",
 			"performanceValue": "125.05"
 		},
 		{
-			"perDate": "2019-08-30 00:00:00.0",
+			"perDate": "2019-08-30",
 			"performanceValue": "120.15"
 		},
 		{
-			"perDate": "2019-09-30 00:00:00.0",
+			"perDate": "2019-09-30",
 			"performanceValue": "127.62"
 		},
 		{
-			"perDate": "2019-10-31 00:00:00.0",
+			"perDate": "2019-10-31",
 			"performanceValue": "132.79"
 		},
 		{
-			"perDate": "2019-11-29 00:00:00.0",
+			"perDate": "2019-11-29",
 			"performanceValue": "135.06"
 		},
 		{
-			"perDate": "2019-12-31 00:00:00.0",
+			"perDate": "2019-12-31",
 			"performanceValue": "140.22"
 		},
 		{
-			"perDate": "2020-01-31 00:00:00.0",
+			"perDate": "2020-01-31",
 			"performanceValue": "137.27"
 		},
 		{
-			"perDate": "2020-02-28 00:00:00.0",
+			"perDate": "2020-02-28",
 			"performanceValue": "122.62"
 		},
 		{
-			"perDate": "2020-03-31 00:00:00.0",
+			"perDate": "2020-03-31",
 			"performanceValue": "92.56"
 		},
 		{
-			"perDate": "2020-04-30 00:00:00.0",
+			"perDate": "2020-04-30",
 			"performanceValue": "100.32"
 		},
 		{
-			"perDate": "2020-05-29 00:00:00.0",
+			"perDate": "2020-05-29",
 			"performanceValue": "102.76"
 		},
 		{
-			"perDate": "2020-06-30 00:00:00.0",
+			"perDate": "2020-06-30",
 			"performanceValue": "105.89"
 		},
 		{
-			"perDate": "2020-07-31 00:00:00.0",
+			"perDate": "2020-07-31",
 			"performanceValue": "107.09"
 		},
 		{
-			"perDate": "2020-08-31 00:00:00.0",
+			"perDate": "2020-08-31",
 			"performanceValue": "112.24"
 		},
 		{
-			"perDate": "2020-09-30 00:00:00.0",
+			"perDate": "2020-09-30",
 			"performanceValue": "107.16"
 		},
 		{
-			"perDate": "2020-10-30 00:00:00.0",
+			"perDate": "2020-10-30",
 			"performanceValue": "107.35"
 		},
 		{
-			"perDate": "2020-11-30 00:00:00.0",
+			"perDate": "2020-11-30",
 			"performanceValue": "128.11"
 		},
 		{
-			"perDate": "2020-12-23 00:00:00.0",
+			"perDate": "2020-12-23",
 			"performanceValue": "133.81"
 		}
 	],
