@@ -10,3 +10,5 @@ Open [http://localhost:9191/home](http://localhost:9191/home) to view it in the 
 ### `Screenshot of Applications`
 
 ### `Home Screen`
+
+![Alt Text](https://github.com/TaherMandsor53/data-analytics/blob/main/assets/HomePage.png)
