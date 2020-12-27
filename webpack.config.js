@@ -64,7 +64,6 @@ module.exports = {
 		host: 'localhost',
 		historyApiFallback: true,
 		disableHostCheck: true,
-		headers: { 'Access-Control-Allow-Origin': '*' },
 	},
 	optimization: {
 		minimize: false,

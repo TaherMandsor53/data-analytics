@@ -4,7 +4,7 @@ import { requestChartDetails } from '../actions/actions';
 import Home from '../component/Home';
 
 const mapStateToProps = state => ({
-	chartDetailsData: state.chartDetails.chartDetailsData.data,
+	chartDetailsData: state.chartDetails.chartDetailsData,
 });
 const mapDispatchToProps = dispatch =>
 	bindActionCreators(
